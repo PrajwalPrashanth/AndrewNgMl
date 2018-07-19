@@ -1,5 +1,5 @@
 function submitWithConfiguration(conf)
-  addpath('C:\Users\prajwal prashanth\Desktop\github\AndrewNgMl\Programming assignment - Neural Network learning\machine-learning-ex4\ex4\lib\jsonlab');
+  addpath('C:\Users\prajwal prashanth\Desktop\github\AndrewNgMl\Pragramming assignment - Regularization and bias or varinace\machine-learning-ex5\ex5\lib\jsonlab');
 
   parts = parts(conf);
 

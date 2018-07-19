@@ -1,3 +1,9 @@
+
+
+
+
+
+
 %% Machine Learning Online Class - Exercise 4 Neural Network Learning
 
 %  Instructions
@@ -73,7 +79,6 @@ fprintf('\nFeedforward Using Neural Network ...\n')
 
 % Weight regularization parameter (we set this to 0 here).
 lambda = 0;
-
 J = nnCostFunction(nn_params, input_layer_size, hidden_layer_size, ...
                    num_labels, X, y, lambda);
 

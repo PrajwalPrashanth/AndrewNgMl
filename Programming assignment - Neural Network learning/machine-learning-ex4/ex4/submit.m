@@ -1,5 +1,5 @@
 function submit()
-  addpath('./lib');
+  addpath('C:\Users\prajwal prashanth\Desktop\github\AndrewNgMl\Programming assignment - Neural Network learning\machine-learning-ex4\ex4\lib');
 
   conf.assignmentSlug = 'neural-network-learning';
   conf.itemName = 'Neural Networks Learning';
